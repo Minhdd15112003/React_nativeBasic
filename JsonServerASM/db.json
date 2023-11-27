@@ -1,0 +1,48 @@
+{
+  "tb_users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin",
+      "name": "admin",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "minh",
+      "password": "minh",
+      "name": "minh"
+    },
+    {
+      "username": "a",
+      "password": "a",
+      "id": 3
+    },
+    {
+      "username": "b",
+      "password": "b",
+      "id": 4
+    }
+  ],
+  "tb_post": [
+    {
+      "title": " NHẬN ĐỊNH TRƯỚC TRẬN ĐẤU",
+      "author": "Minh",
+      "content": "\"Kiểm soát bóng\" là cụm từ được HLV Philippe Troussier nhắc đến nhiều nhất khi đề cập đến triết lý của mình. Ông muốn đội tuyển Việt Nam cầm bóng nhiều, triển khai dàn xếp đội hình bài bản từ sân nhà, ưu tiên chuyền ngắn khi luân chuyển bóng và \"kết liễu\" đối thủ bằng những tình huống",
+      "image": "https://images2.thanhnien.vn/528068263637045248/2023/10/17/38757839620479524155689561301550036777919590n-1697534369787288711744.jpg",
+      "statuss": "xahoi",
+      "id": 4
+    },
+    {
+      "title": "Đà Nẵng mưa lớn, có chỗ ngập sâu cả mét, người dân tiếp tục sơ tán",
+      "author": "linh",
+      "content": "Ngày 17/10, tại TP Đà Nẵng mưa lớn tiếp diễn đã khiến nhiều khu dân cư, tuyến phố ngập trở lại, người dân tiếp tục sơ tán đến nơi an toàn.",
+      "image": "https://photo-baomoi.bmcdn.me/w700_r1/2023_10_17_20_47249951/05f9e030d67c3f22666d.jpg.webp",
+      "statuss": "thoitiet",
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
